@@ -1,6 +1,6 @@
 # flutter_canvas
 
-This project is used to produce the use of flutter canvas, include draw chart, clip image's path, and draw progress indicator.
+This project is used to introduce the use of flutter canvas, include draw chart, clip image's path and draw progress indicator.
 
 <p align="center">
   <img src="./git_images/draw_chart.png" />
