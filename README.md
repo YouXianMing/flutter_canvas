@@ -1,16 +1,12 @@
 # flutter_canvas
 
-A new Flutter project.
+This project is used to produce the use of flutter canvas, include draw chart, clip image's path, and draw progress indicator.
 
-## Getting Started
+![](./git_images/draw_chart.png)
 
-This project is a starting point for a Flutter application.
+![](./git_images/clip_path.png)
 
-A few resources to get you started if this is your first Flutter project:
+![](./git_images/progress_indicator_1.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![](./git_images/progress_indicator_2.gif)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

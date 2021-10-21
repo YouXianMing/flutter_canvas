@@ -33,16 +33,16 @@ class ListPage extends StatelessWidget {
             onTap: () => Navigator.of(context).push(MaterialPageRoute(builder: (ctx) => const DrawChart())),
           ),
           listRowItem(
+            title: '图片根据给定的path裁剪',
+            onTap: () => Navigator.of(context).push(MaterialPageRoute(builder: (ctx) => const ClipImage())),
+          ),
+          listRowItem(
             title: '进度控件(1)',
             onTap: () => Navigator.of(context).push(MaterialPageRoute(builder: (ctx) => const DrawWidgetStep1())),
           ),
           listRowItem(
             title: '进度控件(2)',
             onTap: () => Navigator.of(context).push(MaterialPageRoute(builder: (ctx) => const DrawWidgetStep2())),
-          ),
-          listRowItem(
-            title: '图片根据给定的path裁剪',
-            onTap: () => Navigator.of(context).push(MaterialPageRoute(builder: (ctx) => const ClipImage())),
           ),
           listRowItem(
             title: 'drawLine - 绘制线条',
