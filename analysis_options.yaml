@@ -1,0 +1,16 @@
+# https://dart-lang.github.io/linter/lints/index.html
+# https://dart.dev/guides/language/analysis-options#enabling-linter-rules
+
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - always_declare_return_types
+    - cancel_subscriptions
+    - close_sinks
+    - comment_references
+    - one_member_abstracts
+    - only_throw_errors
+    - package_api_docs
+    - prefer_single_quotes
+    - sort_child_properties_last
